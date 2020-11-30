@@ -1,5 +1,5 @@
 .customNav {
-    background-color: #000;
+    background-color: rgb(30, 30, 30);
 }
 
 
@@ -25,3 +25,7 @@
 .customNav li.nav-item a:hover {
     color: #83EEFC!important;
 }
+
+.navbar-toggler-icon {
+    border-color: rgb(255, 255, 255);
+  } 
