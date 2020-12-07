@@ -5,3 +5,5 @@
 [1130/051152.730:ERROR:settings.cc(325)] Settings version is not 1
 [1202/162138.200:ERROR:settings.cc(325)] Settings version is not 1
 [1206/210231.499:ERROR:settings.cc(325)] Settings version is not 1
+[1207/085733.189:ERROR:settings.cc(325)] Settings version is not 1
+[1207/090733.203:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
